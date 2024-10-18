@@ -1,0 +1,30 @@
+.lottie-container {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.lottie-technologies {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.lottie-image {
+  width: 200px;
+  object-fit: cover;
+}
+.lottie-fragment1 {
+  display: contents;
+}
+.lottie-text3 {
+  display: inline-block;
+}
+.lottie-fragment2 {
+  display: contents;
+}
+.lottie-text4 {
+  display: inline-block;
+}
